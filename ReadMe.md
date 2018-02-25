@@ -10,13 +10,13 @@
 
 ### Model 1:
 * Basic Conv Net with the following architecture
-
+![CNN](https://github.com/meavinash100/NNSentimentPred/blob/master/Conv%20Model%20Summary.PNG)
 ### Model 2:
 * LSTM based RNN with the following architecture
-
+![LSTM](https://github.com/meavinash100/NNSentimentPred/blob/master/LSTM%20RNN.PNG)
 ### Model 3:
 * GRU based RNN with the following architecture
-
+![GRU](https://github.com/meavinash100/NNSentimentPred/blob/master/GRU%20RNN.PNG)
 ### Possible Tuning Hyper-parameters 
 * Different sizes of GloVe word embeddings (50, 100, 300)
 * Different vocabulary sizes
