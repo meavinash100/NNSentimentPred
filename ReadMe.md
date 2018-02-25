@@ -9,7 +9,7 @@
 * Sequence Length: 300 words
 
 ### Model 1:
-* Basic Conv Net with the following architecture
+* Basic Conv Net with the following architecture 
 ![CNN](https://github.com/meavinash100/NNSentimentPred/blob/master/Conv%20Model%20Summary.PNG)
 
 ### Model 2:
